@@ -1,0 +1,4 @@
+# files that are not to be stored on repo
+
+secret.txt
+usersetting.txt
